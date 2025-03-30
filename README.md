@@ -18,4 +18,8 @@ Hi there! 👋 I'm [Your Name], an enthusiastic entry-level analyst with a stron
 - LinkedIn: [Your LinkedIn Profile URL]
 - Email: [Your Email Address]
 Thanks for visiting my profile! 😊 Let's connect and explore opportunities together!
-
+## Project
+SQl-repo
+Python-repo
+excel/sheets-repo
+Tableau Links
