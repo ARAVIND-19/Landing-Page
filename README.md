@@ -17,9 +17,5 @@ Hi there! 👋 I'm [Your Name], an enthusiastic entry-level analyst with a stron
 - GitHub: [Your GitHub Profile URL]
 - LinkedIn: [Your LinkedIn Profile URL]
 - Email: [Your Email Address]
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
 Thanks for visiting my profile! 😊 Let's connect and explore opportunities together!
 
